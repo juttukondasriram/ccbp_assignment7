@@ -1,0 +1,20 @@
+.gaming-item-alignment {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.gaming-item-container {
+  margin-right: 18px;
+}
+
+.gaming-thumbnail-image {
+  height: 230px;
+  width: 200px;
+}
+
+.gaming-details-alignment {
+  margin: 0;
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,46 @@
+.trending-icon-alignment {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #424242;
+  padding: 20px;
+}
+
+.fire-icon {
+  color: red;
+  margin-right: 15px;
+}
+
+.trending-heading {
+  color: white;
+  font-size: 25px;
+}
+
+.trending-container-light {
+  background-color: black;
+  height: 100%;
+  margin-left: 15%;
+}
+
+.trending-item-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.thumbnail-image {
+  height: 190px;
+  width: 270px;
+}
+
+.trending-details-alignment {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.title-heading {
+  font-size: 16px;
+  font-weight: 400;
+}
